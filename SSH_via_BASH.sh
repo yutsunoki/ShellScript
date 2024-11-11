@@ -1,5 +1,5 @@
 <<_comment
-This trick I use a lot from handling data, and if I'm lazy to upload script & run via scp.
+This trick I use a lot for handling data, and if I'm lazy to upload script & run via scp.
 _comment
 
 ssh root@examplehost.com -- bash <<BASH
